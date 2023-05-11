@@ -1,16 +1,19 @@
-console.log("Running Scripts")
 
-
+    
   const renderCards = (dataArray) => {
-    //console.log(dataArray)
+   
     const cardContainer = document.getElementById("card-container")
     dataArray.forEach(cardInfo => {
-        //for(let i = 0; i < dataArray.length; i++)
-        //console.log(cardInfo.cached_images)
+
         const img = document.createElement("img")
         img.src = cardInfo.cached_images.small_250_250
+        const btn = document.createElement("btn")
     
         cardContainer.appendChild(img)
+
+        
+        
+
     })
   }
   
