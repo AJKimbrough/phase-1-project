@@ -1,15 +1,7 @@
 
-let input;
 
-const init = () => {
-    const inputForm = document.querySelector("form")
 
-    inputForm.addEventListener("submit", (event) => {
-        event.preventDefault()
-        input = document.querySelector("input#searchByAddress")
-        console.log(input.value)
-    })
-}
+
 
 
 
@@ -27,7 +19,16 @@ const init = () => {
     })
   }
 
-    const options = {
+  const init = () => {
+    const inputForm = document.querySelector("form")
+
+    inputForm.addEventListener("submit", (event) => {
+        event.preventDefault()
+        const input = document.querySelector("input#searchByAddress")
+        //console.log(input.value)
+    //})
+
+      const options = {
         method: 'GET',
         headers: {accept: 'application/json', 'X-API-KEY': 'I7rLhP53t0wjXc4eUizXjC5LYzglaCGm'}
       };
@@ -39,4 +40,9 @@ const init = () => {
         .catch(err => console.error(err));
 
     
-        document.addEventListener("DOMContentLoaded", init)
+       
+    })
+}
+
+document.addEventListener("DOMContentLoaded", init)
+  
