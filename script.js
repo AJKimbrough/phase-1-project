@@ -1,11 +1,4 @@
 
-
-
-
-
-
-
-
   const renderCards = (dataArray) => {
    
     const cardContainer = document.getElementById("card-container")
@@ -46,3 +39,14 @@
 
 document.addEventListener("DOMContentLoaded", init)
   
+/*
+const options = {
+    method: 'GET',
+    headers: {accept: 'application/json', 'X-API-KEY': 'I7rLhP53t0wjXc4eUizXjC5LYzglaCGm'}
+  };
+  
+  fetch('https://api.blockspan.com/v1/nfts?chain=arbitrum-main&include_current_owners=true&include_recent_price=true&page_size=25', options)
+    .then(response => response.json())
+    .then(response => console.log(response.results))
+    .catch(err => console.error(err));
+    */
