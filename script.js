@@ -87,4 +87,3 @@ document.addEventListener("DOMContentLoaded", () => {
 */
 fetchHomeData()
 addEventListenerToNavLinks()
-//fetchData()
