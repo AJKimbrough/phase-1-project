@@ -71,7 +71,44 @@
             "description":""
         }     
 
-    ]
+    ],
+"Best": [
+            {
+                "id":"1",
+                "name":"Dead Cat Bounce Club",
+                "img": "https://i.seadn.io/gae/YjK6tQHCSc2x5s1CarfMhtgGA3kcD3UXn3TVKo4seIj0NrjiMHYNbyRRiO3upNItsZwEiQuQCoK6SjbFtKmPgspzKbKsGscf8fDC-Q?auto=format&dpr=1&w=1000",
+                "price":"$1008.11",
+                "description":""
+            },
+            {
+                "id":"2",
+                "name":"Bored Ape Yacht Club",
+                "img": "https://ik.imagekit.io/bayc/assets/ape3.png",
+                "price":"$1762.23",
+                "description":""
+            },
+            {
+                "id":"3",
+                "name": "Clone X",
+                "img": "https://i.seadn.io/gcs/files/f137576e06d9fc7c4bdc7813ce09ed82.png?auto=format&dpr=1&w=1000",
+                "price": "$1800.23",
+                "description":""
+            },
+            {
+                "id": "4",
+                "name": "DeGods",
+                "img": "https://i.seadn.io/gae/Xb2scmGyhrLwNWwM0__eIShcT2uqpiWpuAYJNqIwbr7KYozjdp8PQzIZB_8JpC8Pb85E2Y82TuWBTK115SZTokVeIloM_2mxmWQfNZ0?auto=format&dpr=1&w=3840",
+                "price": "$15185.53",
+                "description":" "
+            },
+            {
+                "id":"5",
+                "name": "Pudgy Penguins",
+                "img": "https://i.seadn.io/gcs/files/ec5cee3aabac8faee4492ca25d159f3e.png?auto=format&dpr=1&w=3840",
+                "price": "1801.33",
+                "description":" "
+            }
+        ]
 }
 
 
