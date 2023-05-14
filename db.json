@@ -1,0 +1,77 @@
+{
+    "NFTs": [
+        {
+            "id":"1",
+            "name":"CryptoPunks",
+            "img": "https://i.seadn.io/gcs/files/f3564ef33373939b024fb791f21ec37b.png?auto=format&w=750",
+            "price":"$1762.23",
+            "description":""
+        }, 
+        {
+            "id":"2",
+            "name":"Bored Ape Yacht Club",
+            "img": "https://ik.imagekit.io/bayc/assets/ape3.png",
+            "price":"$1762.23",
+            "description":""
+        },  
+        {
+            "id":"3",
+            "name":"Mutant Ape Yacht Club",
+            "img": "https://i.seadn.io/gcs/files/0a3759a0c9456a60dda2c18bae4b6fbd.png?auto=format&w=750",
+            "price":"$1762.23",
+            "description":""
+        },  
+        {
+            "id":"4",
+            "name":"Azuki",
+            "img": "https://i.seadn.io/gcs/files/fef02bf7825bbd538f89d0cb7690b25e.png?auto=format&w=750",
+            "price":"$1760.79",
+            "description":""
+        },  
+        {
+            "id":"5",
+            "name":"Otherdeed for Otherside",
+            "img": "https://i.seadn.io/gcs/files/9566a717e815f9208db7a4ab34ebca4c.jpg?auto=format&w=750",
+            "price":"$1877.38",
+            "description":""
+        },  
+        {
+            "id":"6",
+            "name":"Chromie Squiggle by Snowfro",
+            "img": "https://i.seadn.io/gcs/files/89799d17b8c6d0e70831a64be40eacc6.png?auto=format&w=750",
+            "price":"$1756.90",
+            "description":""
+        },  
+        {
+            "id":"7",
+            "name":"Autoglyphs",
+            "img": "https://openseauserdata.com/files/08e4aa933d8ddd97ea8116d594262ad9.svg",
+            "price":"$1758.60",
+            "description":""
+        },  
+        {
+            "id":"8",
+            "name":"DeGods",
+            "img": "https://i.seadn.io/gcs/files/4825965193b5acd24167efd027ca6201.png?auto=format&w=750",
+            "price":"$1758.60",
+            "description":""
+        },  
+        {
+            "id":"9",
+            "name":"The Sandbox",
+            "img": "https://i.seadn.io/gcs/files/06eb7d5e959b977357eba255a5c0b645.webp?auto=format&w=750",
+            "price":"$1758.60",
+            "description":""
+        },  
+        {
+            "id":"10",
+            "name":"The Captainz",
+            "img": "https://i.seadn.io/gcs/files/f2847e3d707aad3a67e681e82744f218.gif?auto=format&w=750",
+            "price":"1762.23",
+            "description":""
+        }     
+
+    ]
+}
+
+
