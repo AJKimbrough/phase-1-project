@@ -3,6 +3,7 @@ The NFT Generator is a compilation of the top 25 NFTs on the market as of the la
 
 
 Demo
+![Screen_Recording_2023-05-14_at_8_23_38_PM_AdobeExpress](https://github.com/AJKimbrough/phase-1-project/assets/94200525/813745ad-ed46-47f4-a43e-a83240c1b483)
 
 
 Installation
