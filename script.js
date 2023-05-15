@@ -59,7 +59,6 @@ const addEventListenerToNavLinks = () => {
       fetch(`http://localhost:3000/Best`)
       .then(response => response.json())
       .then(info => {
-          console.log(info)
           renderCards(info)
           return info
       })
